@@ -1,5 +1,4 @@
-![portada](https://github.com/EmilioOcelotl/cc3-2023-II/tree/main/img)
-
+![portada](https://github.com/EmilioOcelotl/cc3-2023-II/tree/main/img/banner.png)
 # Código Creativo 3 - 2023 - II 
 
 Programación orientada a objetos, pixeles, sonido. 
