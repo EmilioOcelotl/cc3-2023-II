@@ -1,4 +1,4 @@
-![portada](https://github.com/EmilioOcelotl/cc5-2023-I/blob/main/img/banner.png)
+![portada](https://github.com/EmilioOcelotl/cc3-2023-II/tree/main/img)
 
 # Código Creativo 3 - 2023 - II 
 
